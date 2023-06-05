@@ -1,0 +1,1 @@
+# Streamlining-Decryption-Outsourcing-and-Key-Generation-in-Inner-Product-Functional-Encryption
