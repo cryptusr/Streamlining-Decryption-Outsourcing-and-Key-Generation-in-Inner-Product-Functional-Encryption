@@ -15,4 +15,4 @@ Make sure you have the following installed:
 5. Add curve files to use for pairings in your project directory.
 
 ## Running a Test
-Run Main.java in which you specify the dimension of vectors (line 18). Then, two vectors are encrypted and tested.
+Run Main.java in which you specify the dimension of vectors (line 18). Then, two vectors (lines 43 and 57) are encrypted and tested.
